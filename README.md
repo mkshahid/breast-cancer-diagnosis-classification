@@ -1,8 +1,8 @@
 # breast-cancer-diagnosis-classification
 
+# Description
 This project focuses on leveraging machine learning techniques to classify and diagnose breast cancer from the Wisconsin Breast Cancer Dataset, and authenticate banknotes from the Banknote Authentication Dataset. The project explores Supervised, Semi-Supervised, and Unsupervised Learning, as well as Active Learning Using Support Vector Machines.
 
-# Description
 # Part 1: Breast Cancer Diagnosis Classification
 The Breast Cancer Wisconsin (Diagnostic) Data Set is used. The data set comprises IDs, classes (Benign=B, Malignant=M), and 30 attributes, with two output classes.
 
